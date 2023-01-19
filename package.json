@@ -2,20 +2,20 @@
   "name": "test",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://marvall.github.io/test",
+  "homepage": "https://marvalltm.github.io/test",
   "scripts": {
     "start": "parcel src/*.html",
     "build": "parcel build src/*.html --public-url /test/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/marvall/test.git"
+    "url": "git+https://github.com/marvalltm/test.git"
   },
   "keywords": [],
   "author": "Alexander Repeta <alexander.repeta@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/marvall/test/issues"
+    "url": "https://github.com/marvalltm/test/issues"
   },
   "dependencies": {
     "modern-normalize": "^1.1.0"
